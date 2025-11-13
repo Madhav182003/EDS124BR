@@ -7,4 +7,5 @@
 [Variables](https://youtu.be/yEOdpPgXnNc)\
 [Repeat Until](https://youtu.be/4flBIkGb5gk)\
 [If-Else](https://youtu.be/p1Ny7zEYeWY)\
-[Nested if\else](https://youtu.be/eY2u-WwQEsQ)
+[Nested if\else](https://youtu.be/eY2u-WwQEsQ)\
+[Abstractions](https://youtu.be/OCcQohyWQl4)
