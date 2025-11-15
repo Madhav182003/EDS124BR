@@ -7,5 +7,6 @@
 [Variables](https://youtu.be/yEOdpPgXnNc)\
 [Repeat Until](https://youtu.be/4flBIkGb5gk)\
 [If-Else](https://youtu.be/p1Ny7zEYeWY)\
-[Nested if\else](https://youtu.be/eY2u-WwQEsQ)\
-[Abstractions](https://youtu.be/OCcQohyWQl4)
+[Nested if\else (week 7)](https://youtu.be/eY2u-WwQEsQ)\
+[Compound Conditionals (week 8) ](https://youtu.be/MTHrXG5Xxi8)\
+[Abstractions (week 9)](https://youtu.be/OCcQohyWQl4)
